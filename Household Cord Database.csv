@@ -1,0 +1,234 @@
+CableName,CableEnd1,CableEnd2,CableLength,Quantity,InUse,Color,CableDescription,StorageID,CableTypeID
+Extension Cord,3-prong plug,3 x 3-prong outlets,5,1,yes,grey,Refrigirator and spare plugs,1,1
+Extension Cord,2-prong plug,3 x 3-prong outlets,10,1,yes,white,various devices,1,1
+Power,2-prong plug,C7,3,1,yes,black,Ryobi batteries,1,1
+Ethernet,Cat6,Cat6,10,3,no,blue,,2,6
+Power,C13,C14,9,15,no,black,,2,1
+Power,C13,C14,15,15,no,black,,2,1
+SAS,mini-sas,mini-sas,15,2,no,black,,2,6
+Serial,DB9 male,Micro DB9 female,5,1,no,grey,,2,7
+Serial,DB9 male,DB9 male,10,1,no,black,,2,7
+Serial,DB9 male,RJ45 male,6,2,no,grey,,2,7
+Extension Cord,3-prong plug,3-prong receptacle,30,1,no,red/black,,3,1
+Extension Cord,3-prong plug,3-prong receptacle,25,1,no,orange,,3,1
+Extension Cord,3-prong plug,3-prong receptacle,40,2,no,white,,3,1
+Extension Cord,3-prong plug,3-prong receptacle,30,1,no,orange,,3,1
+HDMI,HDMI,HDMI,6,1,no,blue/black,,3,5
+Power,3-prong plug,C13,3,2,no,black,,3,1
+Power Strip,3-prong plug,6 x 3-prong outlets,3,1,no,white,,3,1
+Power Strip,3-prong plug,7 x 3-prong outlets,3,2,no,white,,3,1
+Power Strip,3-prong plug,6 x 3-prong outlets,10,1,no,grey/white,,3,1
+Power Strip,3-prong plug,6 x 3-prong outlets,6,1,no,black,,3,1
+Power Strip,3-prong plug,6 x 3-prong outlets,2,1,no,black,,3,1
+Stereo,3.5 mm male,3.5 mm male,3,1,no,black,,3,3
+USB-C to HDMI Adapter,USB-C,HDMI,15,1,no,black,,3,5
+Power strip,3-prong plug,6 x 3-prong outlets,15,1,yes,black,Dehumidifier,4,1
+Power,2-prong plug,6.5*4.4*1 mm barrel,5,1,yes,black,Handheld Vacuum,5,1
+Extension Cord,3-prong plug,3-prong receptacle,20,1,no,yellow,,6,1
+Extension Cord,3-prong plug,3-prong receptacle,30,1,no,orange,,6,1
+Extension Cord,2-prong plug,3 x 3-prong outlets,10,1,no,white,,6,1
+Power Strip,3-prong plug,4 x 3-prong outlets,2,1,no,blue,,6,1
+Power Strip,3-prong plug,6 x 3-prong outlets,6,1,no,black,,6,1
+Power,2-prong plug,5.5*2.5 mm barrel,6,1,yes,black,Aero Garden,8,1
+Power,2-prong plug,4.8*1.7 mm barrel,3,2,yes,black,Skylight Photo Display,10,1
+Power,USB,3.0*1.0 mm barrel,3,1,yes,white,Baby Monitor,10,1
+Stereo,3.5 mm male,3.5 mm male,6,1,yes,black,Plug to play music from speaker,10,1
+USB-C,USB,USB-C,3,1,yes,grey,Spare charger,10,2
+Coaxial,Coaxial Male,Coaxial Male,10,1,yes,grey,Cable box to wall jack,17,6
+Extension Cord,3-prong plug,3 x 3-prong outlets,10,1,yes,white,TV and other entertainment devices,17,1
+HDMI,HDMI,HDMI,3,1,yes,black,Roku to TV,17,5
+HDMI,HDMI,HDMI,10,1,yes,black,PS4 to TV,17,5
+HDMI,HDMI,HDMI,3,1,yes,grey,Cable box to TV,17,5
+Laptop Charger,3-prong plug,7.4 mm barrel,6,1,yes,black,Spare charger,17,1
+Micro USB,USB,Micro USB,3,1,yes,white,Spare charger,17,2
+Phone Charger,2-prong plug,Lightning connector,3,1,yes,white,Spare charger,17,1
+Power,3-prong plug,C13,6,1,yes,black,PS4,17,1
+Power,2-prong plug,4.0*1.7 mm barrel,5,1,yes,black,Cable box,17,1
+Power,2-prong plug,3.0*1.0 mm barrel,5,1,yes,white,Baby Monitor,17,1
+Power Tower,3-prong plug,12 x multi-input outlets,6,1,yes,white,Various chargers and devices,17,1
+USB-C,USB,USB-C,5,1,yes,black,Roku power,17,2
+Ethernet,Cat6,Cat6,6,1,no,yellow,,18,6
+HDMI,HDMI,HDMI,0.5,1,no,black/blue,,18,5
+HDMI,HDMI,HDMI,5,5,no,black,,18,5
+HDMI,HDMI,HDMI,10,1,no,black,,18,5
+HDMI,HDMI,HDMI,25,1,no,blue/black,,18,5
+Mini-B,USB,Mini-B,3,1,no,black,,18,2
+Power,2-prong plug,C7,2,1,no,black,,18,1
+Power,2-prong plug,C7PW,3,1,no,black,,18,1
+Power,2-prong plug,2-prong receptacle,3,1,no,black,,18,1
+Power,3-prong plug,C13,5,2,no,black,,18,1
+Power Strip,3-prong plug,10 x 3-prong outlets,10,1,no,grey,,18,1
+USB-C,USB,USB-C,5,2,no,black,,18,2
+12 Gauge Speaker Wire,Speaker Wire,Speaker Wire,15,4,no,black/red,,21,3
+14 Gauge Speaker Wire,Speaker Wire,Speaker Wire,7,4,no,blue,,21,3
+16 Gauge Speaker Wire,Speaker Wire,Speaker Wire,5,10,no,Gold,,21,3
+HDMI,HDMI,HDMI,0.5,1,no,black,,21,5
+HDMI,HDMI,HDMI,1,4,no,black/blue,,21,5
+HDMI,HDMI,HDMI,5,3,no,black,,21,5
+HDMI,HDMI,HDMI,20,1,no,black,,21,5
+Micro USB,USB,Micro USB,3,2,no,black,,21,2
+Mini-B,USB,Mini-B,5,1,no,black,,21,2
+Speaker,Dual RCA male,Dual RCA male,1.5,1,no,blue,,21,3
+Speaker,RCA male,RCA male,6,1,no,black,,21,3
+Speaker,RCA male,Dual RCA female,0.5,1,no,black,,21,3
+Coaxial,Coaxial Male,Coaxial Male,30,1,yes,white,Wall jack to cable box,22,6
+Coaxial,Coaxial Male,Coaxial Male,5,1,yes,white,Wall jack to router,22,6
+Ethernet,cat6,cat6,10,1,yes,white,Wall jack to router,22,5
+Extension Cord,2-prong plug,3 x 2-prong outlets,6,1,yes,brown,Cable and Internet devices,22,1
+HDMI,HDMI,HDMI,6,1,yes,grey,Cable box to TV,22,5
+Micro USB,USB,Micro USB,3,1,yes,grey/white,Spare device charger,22,2
+Micro USB,USB,Micro USB,3,1,yes,white,Spare device charger,22,2
+Power,2-prong plug,4*1.7 mm barrel,5,1,yes,black,Router,22,1
+Power,2-prong plug,4.0*1.7 mm barrel,5,1,yes,black,Cable box,22,1
+Power,USB,3.0*1.0 mm barrel,3,1,yes,white,Baby Monitor,22,1
+Power Strip,3-prong plug,6 x 3-prong outlets,4,1,yes,white,Various devices,22,1
+Powet,2-prong plug,C7,6,1,yes,black,TV,22,1
+Extension Cord,2-prong plug,3 x 2-prong outlets,10,1,yes,brown,Various Devices,26,1
+Ethernet,cat6,cat6,100,1,no,white,,27,6
+Ethernet,cat6,cat6,15,1,no,grey,,27,6
+Laptop Charger,3-prong plug,7.4 mm barrel,6,1,yes,black,Spare Laptop Charger,28,1
+Power,2-prong plug,C7,3,1,yes,black,Printer,28,1
+Power,USB-C,Magnetic Fast Charger,1.5,1,yes,white,Spare Apple Watch Charger,28,1
+Power Strip,3-prong plug,6 x 3-prong outlets,2,1,yes,grey,Various devices,28,1
+Power,USB,A00390,2,2,no,black,,33,1
+Power,2-prong plug,A00390,3,1,no,black,,33,1
+Power,2-prong plug,2.5*.7 mm barrel,10,1,yes,white,Baby Monitor Camera,34,1
+Power,USB,4.8*1.7 mm barrel,3,1,yes,white,Baby alarm clock ,34,1
+Power,2-prong plug,5.5*2.5 mm barrel,5,1,yes,white,Sound Machine,34,1
+USB Extension,USB,Female USB,3,1,yes,black,Extending power cable for baby alarm clock,34,7
+Extension Cord,2-prong plug,2-prong receptacle,6,1,yes,grey,Bedside lamp,36,1
+Lightning,USB,Lightning connector,6,1,yes,grey,Spare iPhone charger,36,2
+Micro USB,USB,Micro USB,3,1,yes,white,Spare Charger,36,2
+Power,2-prong plug,3.0*1.0 mm barrel,10,1,yes,white,Baby Monitor,36,1
+Power strip,3-prong plug,6 x 3-prong outlets,6,1,yes,grey,Various Devices,36,1
+Power strip,3-prong plug,6 x 3-prong outlets,15,1,yes,white,Various Devices,36,1
+USB-C,USB,USB-C,6,1,yes,grey,Spare charger,36,2
+USB-C,USB-C,USB-C,3,1,yes,white,Spare charger,36,2
+Power,2-prong plug,4.0*1.7 mm barrel,3,1,no,black,,37,1
+Coaxial,Coaxial Male,Coaxial Male,10,1,no,white,,39,6
+Power,2-prong plug,4*1.7 mm barrel,6,1,no,black,,39,1
+Extension Cord,3-prong plug,3 x 3-prong outlets,6,1,yes,white,Various devices,40,1
+Laptop Charger,2-prong plug,7.4 mm barrel,6,1,yes,black,Spare Laptop Charger,40,1
+Power,2-prong plug,2.5*.7 mm barrel,10,1,yes,white,Baby Monitor Camera,40,1
+14 Gauge Speaker Wire,Speaker Wire,Speaker Wire,6,1,no,Blue,,41,3
+16 Gauge Speaker Wire,Speaker Wire,Speaker Wire,60,1,no,Gold,,41,3
+16 Gauge Speaker Wire,Speaker Wire,Speaker Wire,4,4,no,Gold,,41,3
+Coaxial,Coaxial Male,Coaxial Male,5,1,no,white,,41,6
+Display,Display Port,Display Port,3,1,no,black,,41,4
+Dual RCA,Dual RCA male,Dual RCA male,3,3,no,black,,41,3
+Dual Sided USB,USB,USB,1,1,no,black,,41,7
+HDMI,HDMI,HDMI,1,2,no,black,,41,5
+Laptop Charger,3-prong plug,5.5*2.5 mm barrel,6,1,no,black,,41,1
+Lightning,USB,Lightning connector,3,2,no,white,,41,2
+Micro USB,USB,Micro USB,0.5,1,no,White,,41,2
+Micro USB,USB,Micro USB,0.5,1,no,Black,,41,2
+Micro USB,USB,Micro USB,1,2,no,Black,,41,2
+Micro USB,USB,Micro USB,3,2,no,Black,,41,2
+Micro USB,USB,Micro USB,6,1,no,Grey/White,,41,2
+Micro-B,USB,Micro-B,1,1,no,white,,41,2
+Mini DVI,USB,Mini DVI,2,2,no,black,,41,4
+Mini DVI,USB,Mini DVI,1,2,no,blue,,41,4
+Mini-B,USB,Mini-B,1,3,no,Black,,41,2
+Power,3-prong plug,C7,3,3,no,black,,41,1
+Power,3-prong plug,C13,5,2,no,black,,41,1
+RCA Adapter,3.5 mm female,Dual RCA male,0.5,1,no,grey,,41,3
+Stereo,3.5 mm male,3.5 mm female,0.25,1,no,black,,41,3
+Stereo,3.5 mm male,2 x 3.5 mm female,0.5,1,no,black,,41,3
+Stereo,3.5 mm male,3 x 3.5 mm female,0.25,1,no,black,,41,3
+Stereo,3.5 mm male,3.5 mm male,1,2,no,black,,41,3
+Stereo,3.5 mm male,3.5 mm male,3,1,no,grey,,41,3
+Stereo,3.5 mm male,3.5 mm female,1.5,1,no,white,,41,3
+Stereo,3.5 mm male,3.5 mm female,3,4,no,grey/white,,41,3
+Stereo,3.5 mm male,3.5 mm male,10,1,no,red,,41,3
+USB Adapter,USB,USB Male/USB Female,0.5,1,no,black,,41,7
+USB Extension,USB,Female USB,3,6,no,black,,41,7
+USB Hub,USB,4 x USB,0.5,1,no,black/gray,,41,7
+USB Hub,USB ,7 x USB,1,2,no,black/gray,,41,7
+USB to HDMI Adapter,USB,HDMI,1,1,no,black,,41,5
+USB to HDMI Adapter,USB,HDMI,0.5,1,no,white,,41,5
+VGA,VGA female,VGA female,3,2,no,black,,41,4
+VGA,VGA female,VGA female,5,1,no,white,,41,4
+Coaxial,Coaxial Male,Coaxial Male,6,1,yes,black,Router,46,6
+Display,Display Port,Display Port,3,1,yes,black,Right Monitor to Docking Station,46,4
+Ethernet,cat6,cat6,2,1,yes,black,Router to File Server,46,6
+Ethernet,cat6,cat6,5,1,yes,yellow,Router to Docking Station,46,6
+HDMI,HDMI,HDMI,3,1,yes,black,Left Monitor,46,5
+Lightning,USB-C,Lightning connector,3,1,yes,white,Spare iPhone charger,46,2
+Multi-power Adapter,2-prong plug,Multi-power Adapter,6,1,yes,black,Various device charger,46,1
+Power,2-prong plug,4*1.7 mm barrel,5,1,yes,black,Router,46,1
+Power,2-prong plug,6.3*3.0 mm barrel,6,1,yes,black,File Server,46,1
+Power,3-prong plug,C13,6,1,yes,black,Right Monitor,46,1
+Power,3-prong plug,7.4 mm barrel,10,1,yes,black,Docking Station,46,1
+Power,2-prong plug,5.0*3.0*1 mm barrel,6,1,yes,black,Computer Speaker,46,1
+Power,3-prong plug,C13,6,1,yes,black,Left Monitor,46,1
+Power Strip,3-prong plug,6 x 3-prong outlets,10,1,yes,grey,Various Desk Devices,46,1
+USB-C,2-prong plug,USB-C,10,1,yes,grey,Spare device charger,46,1
+Lightning,USB,Lightning connector,6,2,no,grey,,47,2
+Micro USB,USB,Micro USB,1,1,no,black,,47,2
+USB-C,USB,USB-C,3,1,no,black,,47,2
+Extension Cord,3-prong plug,3 x 3-prong outlets,15,1,yes,white,TV and Roku,49,1
+HDMI,HDMI,HDMI,3,1,yes,grey,Roku to TV,49,5
+Laptop Charger,3-prong plug,5.0*3.0*1 mm barrel,6,1,yes,black,Spare Laptop Charger,49,1
+USB-C,USB,USB-C,5,1,yes,black,Roku power,49,2
+Coaxial,Coaxial Male,Coaxial Male,10,1,no,black,,50,6
+Coaxial,Coaxial Male,Coaxial Male,1,3,no,black,,50,6
+Coaxial,Coaxial Male,Coaxial Male,3,4,no,black,,50,6
+Coaxial,Coaxial Male,Coaxial Male,3,3,no,white,,50,6
+Coaxial,Coaxial Male,Coaxial Male,15,1,no,black,,50,6
+Coaxial,Coaxial Male,Coaxial Male,25,1,no,black,,50,6
+Ethernet,cat6,cat6,6,1,no,blue,,50,6
+Ethernet,cat6,cat6,10,2,no,yellow,,50,6
+Ethernet,cat6,cat6,3,2,no,grey,,50,6
+Ethernet,cat6,cat6,2,1,no,grey,,50,6
+Ethernet,cat6,cat6,10,1,no,white,,50,6
+Extension Cord,3-prong plug,3 x 3-prong outlets,6,1,no,brown,,50,1
+HDMI,HDMI,HDMI,10,1,no,black,,50,5
+HDMI,HDMI,HDMI,3,2,no,black,,50,5
+Laptop Charger,3-prong plug,Lenovo Power Connector,6,1,no,black,,50,1
+Laptop Charger,3-prong plug,4*1.7 mm barrel,5,1,no,black,,50,1
+Laptop Charger,3-prong plug,5.0*3.0*1 mm barrel,6,1,no,black,,50,1
+Micro USB,USB,Micro USB,1,2,no,white,,50,2
+Mini DVI,USB,Mini DVI,3,1,no,black,,50,4
+Multi-power Adapter,2-prong plug,Multi-power Adapter,6,1,no,black,,50,1
+Power,USB-C,Magnetic Fast Charger,1.5,1,no,white,,50,1
+Power,3-prong plug,5.5*2.1 mm barrel,3,4,no,black,,50,1
+Serial,DB9 male,DB9 female,3,1,no,black,,50,7
+Serial,DB9 male,DB9 male,3,1,no,black,,50,7
+USB-C,USB,USB-C,3,1,no,grey,,50,2
+VGA,VGA female,VGA female,3,1,no,black,,50,4
+Micro-B,USB,Micro-B,1,2,no,black,,51,2
+Power,2-prong plug,USB-C,6,1,no,grey,,51,1
+Power,3-prong plug,5.5*2.1 mm barrel,3,1,no,black,,51,1
+Power,USB,Mini-B,1,1,no,black,,51,2
+USB Extension,USB,Female USB,3,1,no,black,,51,7
+USB-C,USB,USB-C,1,3,no,black,,51,2
+USB-C,USB,USB-C,0.5,1,no,grey,,51,2
+Extension Cord,2-prong plug,3 x 2-prong outlets,6,1,yes,brown,TV,53,1
+Power,3-prong plug,C13,6,1,yes,black,Treadmill,53,1
+C14 Power Adapter,3-prong outlet,C14,0.5,1,no,black,,58,1
+Ethernet,cat6,cat6,2,1,no,white,,58,6
+Ethernet,cat6,cat6,6,1,no,blue,,58,6
+Laptop Charger,3-prong plug,5.0*3.0*1 mm barrel,6,1,no,black,,58,7
+Micro USB,USB,Micro USB,5,3,no,black,,58,2
+Mini VGA Adapter,Mini VGA,VGA female,0.5,1,no,black,,58,7
+Power,USB,3.0*1.0 mm barrel,0.5,1,no,black,,58,1
+Power,2-prong plug,2.5*.7 mm barrel,2,1,no,black,,58,1
+Serial,DB9 female,Micro DB9 female,10,1,no,black,,58,7
+Serial,DB9 female,DB9 female,5,1,no,black,,58,7
+Serial,DB9 female,DB9 female,10,1,no,black,,58,7
+Serial,DB9 male,RJ45 male,3,1,no,grey,,58,7
+Serial,DB9 female,DB9 female,10,1,no,grey,,58,7
+USB Extension,USB,USB Female,0.5,1,no,black,,58,7
+USB To Serial Adapter,USB,DB9 male,2,2,no,grey,,58,7
+USB-C,USB,USB-C,1,1,no,black,,58,2
+Extension Cord,3-prong plug,3-prong receptacle,30,1,no,orange,,59,1
+HDMI,HDMI,HDMI,9,1,no,black,,59,5
+HDMI,HDMI,HDMI,5,1,no,black,,59,5
+Lightning,USB,Lightning connector,3,1,no,white,,59,2
+Micro USB,USB,Micro USB,2,1,no,black,,59,2
+Power Strip,3-prong plug,6 x 3-prong outlets,10,1,no,grey/white,,59,1
+Stereo,3.5 mm male,2 x 3.5 mm female,0.5,1,no,black,,59,3
+USB-C,USB,USB-C,6,1,no,grey,,59,2
+USB-C,USB,USB-C,2,1,no,grey,,59,2
+USB-C,USB-C,USB-C,1.5,1,no,white,,59,2
+USB-C,USB-C,USB-C,3,1,no,black,,59,2
